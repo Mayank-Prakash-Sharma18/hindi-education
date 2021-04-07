@@ -1,0 +1,78 @@
+[[main]]
+  name = "English"
+  url = "series/english/"
+  weight = -110
+
+[[main]]
+  name = "Arithmetic"
+  url = "series/english/"
+  weight = -108
+
+[[main]]
+  name = "Higher Maths"
+  url = "series/english/"
+  weight = -105
+
+[[main]]
+  name = "Reasoning"
+  url = "series/english/"
+  weight = -102
+
+# Submenus are done this way: parent -> identifier
+[[main]]
+  name = "General Studies"
+  identifier = "general-studies"
+  weight = -99
+[[main]]
+  parent = "general-studies"
+  name = "Geography"
+  url = "series/english/"
+[[main]]
+  parent = "general-studies"
+  name = "Public Administration"
+  url = "series/english/"
+[[main]]
+  parent = "general-studies"
+  name = "Psychology"
+  url = "series/english/"
+
+[[main]]
+  name = "About"
+  url = "about/"
+  weight = -81
+
+# social menu links
+
+# [[social]]
+#   name = "github"
+#   type = "social"
+#   weight = 1
+#   url = "https://github.com/#"
+[[social]]
+  name = "facebook"
+  weight = 1
+  url = "https://facebook.com/#"
+[[social]]
+  name = "twitter"
+  weight = 2
+  url = "https://twitter.com/#"
+# [[social]]
+#   name = "linkedin"
+#   weight = 3
+#   url = "https://www.linkedin.com/in/#"
+# [[social]]
+#   name = "rss"
+#   weight = 4
+#   url = "index.xml"
+
+# other supported social links
+# name = "youtube"
+# url = "https://www.youtube.com/#"
+# name = "facebook"
+# url = "https://facebook.com/#"
+# name = "instagram"
+# url = "https://instagram.com/#"
+# name = "stackoverflow"
+# url = "https://stackoverflow.com/#"
+# name = "gitlab"
+# url = "https://gitlab.com/#"
