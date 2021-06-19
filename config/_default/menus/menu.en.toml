@@ -14,6 +14,11 @@
 #   weight = -105
 
 [[main]]
+  name = "English"
+  url = "series/english/"
+  weight = -108
+
+[[main]]
   name = "Reasoning"
   url = "series/reasoning/"
   weight = -102
