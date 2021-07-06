@@ -28,10 +28,10 @@
   name = "Optional Subjects (UPSC)"
   identifier = "general-studies"
   weight = -99
-# [[main]]
-#   parent = "general-studies"
-#   name = "Geography"
-#   url = "series/english/"
+[[main]]
+  parent = "general-studies"
+  name = "Geography"
+  url = "series/geography/"
 [[main]]
   parent = "general-studies"
   name = "Public Administration"
