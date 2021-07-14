@@ -51,7 +51,7 @@ thumbnail: "images/scientific-management-hindi.png" # Sets thumbnail image appea
  
 औद्योगिक क्रांति से बड़े संगठन बनने लगे। साथ ही कर्मचारियों की संख्या में भी काफी इजाफा हुआ। यह सब प्रबंधन की समस्याओं का कारण बना। इन समस्याओं को हल करने के लिए टेलर ने 'रूल ऑफ थंब (Rule of Thumb)' की बजाय उचित 'प्रबंधन का विज्ञान (Science of Management)' अपनाने का सुझाव दिया।
 
-<img src="../../../images/scientific-management-theory-hindi-1.png" alt="Public Administration - Scientific Management Theory in Hindi" style="width:90%;height:90%;">
+<img src="../../../images/scientific-management-theory-hindi-1.png" alt="Public Administration - Scientific Management Theory in Hindi" style="width:90%;height:90%;"> <br>
 <img src="../../../images/scientific-management-theory-hindi-2.png" alt="Public Administration - Scientific Management Theory in Hindi" style="width:81%;height:81%;">
 
 यद्यपि उनका मूल दृष्टिकोण आम तौर पर आजकल की समस्याओं के लिए अपर्याप्त माना जाता है, परन्तु जब उन्होंने अपने 'सिद्धांतों' को प्रतिपादित किया, तो उन्होंने एक आंदोलन को हवा दी, जिसने तर्कसंगत तरीके से संघठन प्रबंधन को पुनर्गठित किया, और बेतरतीब प्रथाओं को कुशल प्रथाओं के साथ बदला| टेलर के विचार में सुव्यवस्था प्रमुख थी| यह इसलिए था क्यूंकि उन्होंने अपने ज़माने के संघठनो में भारी अव्यवस्था देखी - श्रमिक स्वयं निर्णय लेते थे कि किस कार्य विधियों का पालन किया जाए और प्रत्येक ऑपरेशन के लिए अपने उपकरण स्वयं चुनते थे। उनका प्रबंधन नहीं किया जा रहा था; वे खुद को मैनेज कर रहे थे। 

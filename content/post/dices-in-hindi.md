@@ -261,7 +261,7 @@ thumbnail: "images/dice.jpg" # Sets thumbnail image appearing inside card on hom
 <img src="../../../images/dices/unfolded-dice7.png" alt="unfolded-dice" style="width:99%;height:99%;">
 
 ##### प्र. एक ही घन के तीन दृश्य दिए गए हैं। घन के सभी फलकों को 1 से 6 तक क्रमांकित किया गया है। उस आकृति का चयन करें जो घन को खोलने पर प्राप्त होगी। <br>
-<img src="../../../images/dices/dice-question.png" alt="dices" style="width:81%;height:81%;">
+<img src="../../../images/dices/dice-question.png" alt="dices" style="width:81%;height:81%;"> <br>
 <img src="../../../images/dices/dice-question1.png" alt="dices" style="width:81%;height:81%;">
 
 व्याख्या:<br>
