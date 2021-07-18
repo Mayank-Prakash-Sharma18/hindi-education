@@ -19,7 +19,7 @@ thumbnail: "images/di/di.jpg" # Sets thumbnail image appearing inside card on ho
 # figurePositionShow: true # Override global value for showing the figure label.
 ---
 
-इस लेख में हम रीजनिंग के एक महत्त्वपूर्ण अध्याय के बारे में जानेंगे - <strong>Data Interpretation, in Hindi</strong>
+इस लेख में हम क्वांटिटेटिव एप्टीटुड (गणित) के एक महत्त्वपूर्ण अध्याय के बारे में जानेंगे - <strong>Data Interpretation, in Hindi</strong>
 
 ## DI का महत्व
 
