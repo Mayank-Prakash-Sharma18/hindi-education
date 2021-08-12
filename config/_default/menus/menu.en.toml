@@ -1,17 +1,3 @@
-# [[main]]
-#   name = "English"
-#   url = "series/english/"
-#   weight = -110
-
-# [[main]]
-#   name = "Arithmetic"
-#   url = "series/english/"
-#   weight = -108
-
-# [[main]]
-#   name = "Higher Maths"
-#   url = "series/english/"
-#   weight = -105
 
 [[main]]
   name = "English"
@@ -19,10 +5,23 @@
   weight = -108
 
 [[main]]
-  name = "Arithmetic"
-  url = "series/arithmetic/"
-  weight = -105
-  
+   name = "Maths"
+   url = "#"
+   identifier = "maths"
+   weight = -106
+
+   [[main]]
+   name = "Arithmetic"
+   url = "series/arithmetic/"
+   parent = "maths"
+   weight = -105
+
+   [[main]]
+   name = "Higher Maths"
+   url = "series/higher-maths/"
+   parent = "maths"
+   weight = -104
+
 [[main]]
   name = "Reasoning"
   url = "series/reasoning/"
