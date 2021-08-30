@@ -30,13 +30,16 @@
 # Submenus are done this way: parent -> identifier
 [[main]]
   name = "Optional Subjects (UPSC)"
+  url = "#"
   identifier = "general-studies"
   weight = -99
-[[main]]
+
+  [[main]]
   parent = "general-studies"
   name = "Geography"
   url = "series/geography/"
-[[main]]
+
+  [[main]]
   parent = "general-studies"
   name = "Public Administration"
   url = "series/public-administration/"
@@ -44,6 +47,22 @@
 #   parent = "general-studies"
 #   name = "Psychology"
 #   url = "series/english/"
+
+[[main]]
+  name = "Technical"
+  url = "#"
+  identifier = "technical"
+  weight = -95
+
+  [[main]]
+  parent = "technical"
+  name = "Web Development"
+  url = "series/web-development/"
+
+  # [[main]]
+  # parent = "technical"
+  # name = "Digital Marketing"
+  # url = "series/digital-marketing/"
 
 [[main]]
   name = "About"
@@ -60,11 +79,11 @@
 [[social]]
   name = "facebook"
   weight = 1
-  url = "https://facebook.com/#"
-[[social]]
-  name = "twitter"
-  weight = 2
-  url = "https://twitter.com/#"
+  url = "https://www.facebook.com/Red-Matter-Classes-108976517305128"
+# [[social]]
+#   name = "twitter"
+#   weight = 2
+#   url = "https://twitter.com/#"
 # [[social]]
 #   name = "linkedin"
 #   weight = 3

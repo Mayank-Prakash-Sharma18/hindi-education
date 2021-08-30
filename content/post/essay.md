@@ -1,6 +1,6 @@
 ---
 author: Mragank Shandilya
-title: निबंध (Essay) कैसे लिखें? 
+title: निबंध (Essay) कैसे लिखें? (Nibandh kaise likhein?)
 date: "2021-08-29"
 description: निबंध (एस्से - Essay) # Description used for search engine.
 featured: true # Sets if post is a featured post, making it appear on the sidebar. A featured post won't be listed on the sidebar if it's the current page
@@ -19,7 +19,7 @@ thumbnail: "images/essay.png" # Sets thumbnail image appearing inside card on ho
 # figurePositionShow: true # Override global value for showing the figure label.
 ---
 
-इस लेख में हम अंग्रेजी के एक महत्त्वपूर्ण अध्याय के बारे में जानेंगे - <strong>Essay</strong>
+इस लेख में हम अंग्रेजी के एक महत्त्वपूर्ण अध्याय के बारे में जानेंगे - <strong>Writing Essay</strong>
 
 यदि आप जिस परीक्षा की तैयारी कर रहे हैं, उसमें अंग्रेजी का सब्जेक्टिव पेपर है, तो यह निश्चित है कि आपको निबंध लिखने के लिए अवश्य ही कहा जाएगा।
 
