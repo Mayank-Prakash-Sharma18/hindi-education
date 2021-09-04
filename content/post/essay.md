@@ -11,8 +11,8 @@ categories: ["english-writing"]
 series: ["english"]
 # aliases: ["migrate-from-jekyl", "demo alias"]
 math: true
-featureImage: "/images/essay.png" # Sets featured image on blog post.
-thumbnail: "images/essay.png" # Sets thumbnail image appearing inside card on homepage. I will keep it the same as featureImage.
+featureImage: "/images/english/essay.png" # Sets featured image on blog post.
+thumbnail: "images/english/essay.png" # Sets thumbnail image appearing inside card on homepage. I will keep it the same as featureImage.
 # shareImage: "/images/path/share.png" # Designate a separate image for social media sharing.
 # codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
 # codeLineNumbers: false # Override global value for showing of line numbers within code block.
