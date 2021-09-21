@@ -59,6 +59,21 @@
   name = "Web Development"
   url = "series/web-development/"
 
+  [[main]]
+  parent = "technical"
+  name = "HTML & CSS"
+  url = "series/html-css/"
+
+  # [[main]]
+  # parent = "technical"
+  # name = "JavaScript"
+  # url = "series/javascript/"
+
+  # [[main]]
+  # parent = "technical"
+  # name = "JavaScript Framework"
+  # url = "series/javascript-framework/"
+
   # [[main]]
   # parent = "technical"
   # name = "Digital Marketing"
