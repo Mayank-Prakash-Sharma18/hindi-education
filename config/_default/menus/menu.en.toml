@@ -80,9 +80,25 @@
   # url = "series/digital-marketing/"
 
 [[main]]
+  name = "Digital Marketing"
+  url = "#"
+  identifier = "digital-marketing"
+  weight = -81
+
+  [[main]]
+  parent = "digital-marketing"
+  name = "Search Engine Optimization (SEO)"
+  url = "categories/seo/"
+
+  # [[main]]
+  # parent = "digital-marketing"
+  # name = "Social Media Marketing (SMM)"
+  # url = "categories/smm/"
+
+[[main]]
   name = "About"
   url = "about/"
-  weight = -81
+  weight = -60
 
 # social menu links
 
