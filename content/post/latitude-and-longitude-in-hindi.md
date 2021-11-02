@@ -43,6 +43,8 @@ thumbnail: "images/geography/latitudes-and-longitudes.png" # Sets thumbnail imag
 * प्रत्येक डिग्री को 60 मिनट में और प्रत्येक मिनट को 60 सेकंड में उप-विभाजित किया जाता है।
 
 ### अक्षांश की सबसे महत्वपूर्ण रेखाएँ:
+
+अक्षांश की सबसे महत्वपूर्ण रेखाएँ:<br>
 <img src="../../../images/geography/important-latitudes.png" alt="important latitudes" style="width:99%;height:99%;">
 
 

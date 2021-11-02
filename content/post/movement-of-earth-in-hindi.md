@@ -84,6 +84,7 @@ thumbnail: "images/geography/revolution.gif" # Sets thumbnail image appearing in
 
 ### दिन और रात की अलग-अलग लंबाई
 
+दिन और रात की अलग-अलग लंबाई:<br>
 <img src="../../../images/geography/earth-positions-revolution.png" alt="earth positions during its revolution" style="width:100%;height:100%;">
 
 * विषुव के दिन सूर्य भूमध्य रेखा के ठीक ऊपर होता है (Overhead sun is on Equator on the day of equinox) <br>
@@ -122,6 +123,7 @@ thumbnail: "images/geography/revolution.gif" # Sets thumbnail image appearing in
 
 ###### सारांश
 
+सारांश: <br>
 <img src="../../../images/geography/slant-rays-summary.png" alt="slant rays summary" style="width:81%;height:81%;">
 
 
