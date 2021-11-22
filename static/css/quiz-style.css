@@ -1,0 +1,88 @@
+/* CSS Code for Quiz. Sources: https://codeactually.com/interactivequiz.html ; https://www.w3schools.com/cssref/pr_background-image.asp */
+
+.quiz-section {
+    background-color: rgb(9, 46, 59);
+    background-image: url("../../../css/quiz1.jpg");
+    font-family: Helvetica;
+    color: black;
+    }
+
+.quiz-section h4 {
+    color: black;
+    }
+
+.quiz-section h5 {
+    color: black;
+    }
+    
+#header {
+    margin-top: 0;
+    border: 2px solid black;
+    padding: 5px;
+    height: 200px;
+    background: rgb(71, 76, 94);  
+    background-image: url("../../../css/quiz.png");
+    background-position: center;
+    background-size: 100% 100%;
+    /* color: rgb(88, 184, 58); */
+    }
+
+#main {
+    width: 81%;
+    /* max-width: 950px; */
+    border: 1px gray solid;
+    margin: auto;
+    padding: 10px;
+    background-color: rgb(234, 248, 240);
+    border-radius: 10px;
+    }
+
+.quiz-label {
+    display: block;
+    }
+        
+.quiz-input {
+    width: 20px;
+    margin-left: 5px;
+    }
+
+/* CSS code for Quiz Timer. Source: https://codepen.io/finnhvman/pen/vVWrvv */
+.timer {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 10vh;
+    color: white;
+    /* font-family: "Roboto", "Segoe UI", BlinkMacSystemFont, system-ui, -apple-system; */
+    font-size: 2em;
+    text-align: center;
+    background: radial-gradient(#f12711, #f5af19);
+}
+
+/* CSS code for Quiz Result. Source: https://codepen.io/finnhvman/pen/vVWrvv */
+.result {
+    /* width: 100%; */
+    /* display: flex; */
+    /* align-items: center; */
+    /* justify-content: center; */
+    /* min-height: 10vh; */
+    color: white;
+    /* font-family: "Roboto", "Segoe UI", BlinkMacSystemFont, system-ui, -apple-system; */
+    /* font-size: 2em; */
+    /* text-align: center; */
+    background: radial-gradient(#227e0f, #058574);
+}
+
+/* CSS if a student chooses correct or incorrect options. */
+.correct {
+    background-color: #a4ebb5;
+    border: 1px solid #c3e6cb;
+}
+
+.incorrect{
+    color: #721c24;
+    background: #f8d7da;
+    border: 1px solid #f5c6cb;
+}
+
