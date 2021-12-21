@@ -8,7 +8,7 @@ copyright = "Copyright © 2021, Hindi-Education.com Authors; all rights reserved
 paginate = 10
 theme = "hugo-clarity"
 
-disqusShortname = ""
+disqusShortname = "hindi-education-com"
 
 DefaultContentLanguage = "en"
 # [languages]
