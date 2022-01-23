@@ -143,7 +143,7 @@ CI = 5%
 
 <p> राशि (Amount) = P (1 + \(\frac{r}{100})^n × (1 + \frac{ (\frac{a}{b}) r}{100}\)) </p>
 
-##### प्र. 10000 रुपये का ऋण 10% सालाना कंपाउंडेड की दर से दिया गया था। 2 $\frac{2}{5}$ वर्षों के बाद राशि क्या होगी?
+<p><b> प्र. 10000 रुपये का ऋण 10% सालाना कंपाउंडेड की दर से दिया गया था। 2 \(\frac{2}{5}\) वर्षों के बाद राशि क्या होगी? </b></p>
 
 व्याख्या :<br>
 <button class="mak-tablink tablink-group2 default-tab" onclick="openTab('2Exp-1', this, 'tablink-group2', 'tabcontent-group2')">1</button>
