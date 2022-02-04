@@ -5,22 +5,34 @@
   weight = -108
 
 [[main]]
-   name = "Maths"
-   url = "#"
-   identifier = "maths"
-   weight = -106
-
-   [[main]]
    name = "Arithmetic"
    url = "series/arithmetic/"
-   parent = "maths"
-   weight = -105
+   identifier = "arithmetic"
+   weight = -106
 
-   [[main]]
+[[main]]
    name = "Higher Maths"
    url = "series/higher-maths/"
-   parent = "maths"
+   identifier = "maths"
    weight = -104
+
+# [[main]]
+#    name = "Maths"
+#    url = "#"
+#    identifier = "maths"
+#    weight = -106
+
+#    [[main]]
+#    name = "Arithmetic"
+#    url = "series/arithmetic/"
+#    parent = "maths"
+#    weight = -105
+
+#    [[main]]
+#    name = "Higher Maths"
+#    url = "series/higher-maths/"
+#    parent = "maths"
+#    weight = -104
 
 [[main]]
   name = "Reasoning"
@@ -29,40 +41,47 @@
 
 # Submenus are done this way: parent -> identifier
 [[main]]
-  name = "Optional Subjects (UPSC)"
-  url = "#"
-  identifier = "general-studies"
-  weight = -99
-
-  [[main]]
-  parent = "general-studies"
-  name = "Geography"
-  url = "series/geography/"
-
-  [[main]]
-  parent = "general-studies"
   name = "Public Administration"
   url = "series/public-administration/"
+  identifier = "pub-ad"
+  weight = -99
+
+# [[main]]
+#   name = "Optional Subjects (UPSC)"
+#   url = "#"
+#   identifier = "general-studies"
+#   weight = -99
+
+  # [[main]]
+  # parent = "general-studies"
+  # name = "Geography"
+  # url = "series/geography/"
+
+  # [[main]]
+  # parent = "general-studies"
+  # name = "Public Administration"
+  # url = "series/public-administration/"
+
 # [[main]]
 #   parent = "general-studies"
 #   name = "Psychology"
 #   url = "series/english/"
 
-[[main]]
-  name = "Technical"
-  url = "#"
-  identifier = "technical"
-  weight = -95
+# [[main]]
+#   name = "Technical"
+#   url = "#"
+#   identifier = "technical"
+#   weight = -95
 
-  [[main]]
-  parent = "technical"
-  name = "Web Development"
-  url = "series/web-development/"
+#   [[main]]
+#   parent = "technical"
+#   name = "Web Development"
+#   url = "series/web-development/"
 
-  [[main]]
-  parent = "technical"
-  name = "HTML & CSS"
-  url = "series/html-css/"
+#   [[main]]
+#   parent = "technical"
+#   name = "HTML & CSS"
+#   url = "series/html-css/"
 
   # [[main]]
   # parent = "technical"
@@ -79,16 +98,16 @@
   # name = "Digital Marketing"
   # url = "series/digital-marketing/"
 
-[[main]]
-  name = "Digital Marketing"
-  url = "#"
-  identifier = "digital-marketing"
-  weight = -81
+# [[main]]
+#   name = "Digital Marketing"
+#   url = "#"
+#   identifier = "digital-marketing"
+#   weight = -81
 
-  [[main]]
-  parent = "digital-marketing"
-  name = "Search Engine Optimization (SEO)"
-  url = "categories/seo/"
+#   [[main]]
+#   parent = "digital-marketing"
+#   name = "Search Engine Optimization (SEO)"
+#   url = "categories/seo/"
 
   # [[main]]
   # parent = "digital-marketing"
