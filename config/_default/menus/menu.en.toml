@@ -115,9 +115,35 @@
   # url = "categories/smm/"
 
 [[main]]
+  name = "Contact Us"
+  url = "contact/"
+  weight = -63
+
+[[main]]
+  name = "About Us"
+  url = "#"
+  identifier = "info"
+  weight = -60
+
+  [[main]]
+  parent = "info"
   name = "About"
   url = "about/"
-  weight = -60
+
+  [[main]]
+  parent = "info"
+  name = "प्राइवेसी पॉलिसी"
+  url = "privacy-policy/"
+
+  [[main]]
+  parent = "info"
+  name = "टर्म्स कंडीशंस"
+  url = "terms-conditions/"
+
+  [[main]]
+  parent = "info"
+  name = "डिस्क्लेमर"
+  url = "disclaimer/"
 
 # social menu links
 
@@ -154,3 +180,4 @@
 # url = "https://stackoverflow.com/#"
 # name = "gitlab"
 # url = "https://gitlab.com/#"
+

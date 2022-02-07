@@ -157,8 +157,29 @@ tr
 	display: inline-block 
 	font-size: 16px 
 
+
+
+// Added this to properly format my textarea element in Contact Us form; basically to make its width 100%. Source: https://stackoverflow.com/questions/271067/how-can-i-make-a-textarea-100-width-without-overflowing-when-padding-is-present; https://davidwalsh.name/textarea-width; Used https://jsonformatter.org/css-to-sass to convert CSS into SASS. 
+
+textarea 
+	-webkit-box-sizing: border-box 
+	-moz-box-sizing: border-box 
+	box-sizing: border-box 
+	width: 100% 
+
+
+
 // Added by me / Mak / Mayank - To underline the hyperlinks in my text body (by default reader theme does not underline hyperlinks)
+
 .mak-link 
 	text-decoration: underline 
 	text-decoration-color: blue
 
+
+// To block Disqus Ads. 
+// The Disqus ad section comes with an iframe tag which has an attribute sandbox. So you just need to set the display of any iframe element to none that has sandbox defined. 
+// Caution: Be careful if you have any other iframe tags defined in your website which has the sandbox attribute. This might remove all of them.
+//Source: https://stackoverflow.com/questions/49131980/how-do-i-disable-or-hide-the-unwanted-disqus-ads-on-my-website
+
+iframe[sandbox]:not([sandbox=""]) 
+	display: none !important 
