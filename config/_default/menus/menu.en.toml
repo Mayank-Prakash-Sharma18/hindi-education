@@ -42,9 +42,21 @@
 # Submenus are done this way: parent -> identifier
 [[main]]
   name = "Public Administration"
-  url = "series/public-administration/"
+  url = "#"
   identifier = "pub-ad"
   weight = -99
+
+   [[main]]
+   name = "Pub Adm Paper I"
+   url = "categories/pa-paper-1/"
+   parent = "pub-ad"
+   weight = -98
+
+   [[main]]
+   name = "Pub Adm Paper II"
+   url = "categories/pa-paper-2/"
+   parent = "pub-ad"
+   weight = -97
 
 # [[main]]
 #   name = "Optional Subjects (UPSC)"

@@ -7,7 +7,7 @@ featured: true # Sets if post is a featured post, making it appear on the sideba
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: true # Controls if a table of contents should be generated for first-level links automatically.
 tags: ["administrative-law"]
-categories: ["administrative-law"]
+categories: ["pa-paper-1"]
 series: ["public-administration"]
 # aliases: ["migrate-from-jekyl", "demo alias"]
 math: false
@@ -19,7 +19,7 @@ thumbnail: "images/pub-adm/administrative-law-hindi.png" # Sets thumbnail image 
 # figurePositionShow: true # Override global value for showing the figure label.
 ---
 
-इस लेख में हम UPSC परीक्षा से सम्बंधित, लोक प्रशासन (Public Administration) के एक महत्पूर्ण विषय पर प्रकाश डालेंगे - <strong> प्रशासकीय कानून (Administrative Law, AL) </strong> 
+इस लेख में हम UPSC परीक्षा से सम्बंधित, लोक प्रशासन (Public Administration) के एक महत्पूर्ण विषय पर प्रकाश डालेंगे - <strong> प्रशासकीय कानून (Administrative Law, AL), in Hindi </strong> 
 
 
 ## प्रशासकीय कानून - परिभाषा और दायरा

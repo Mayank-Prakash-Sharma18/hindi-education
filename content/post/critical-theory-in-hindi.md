@@ -7,7 +7,7 @@ featured: true # Sets if post is a featured post, making it appear on the sideba
 draft: false # Sets whether to render this page. Draft of true will not be rendered.
 toc: true # Controls if a table of contents should be generated for first-level links automatically.
 tags: ["critical theory"]
-categories: ["public administration introduction"]
+categories: ["pa-paper-1"]
 series: ["public-administration"]
 # aliases: ["migrate-from-jekyl", "demo alias"]
 math: false
