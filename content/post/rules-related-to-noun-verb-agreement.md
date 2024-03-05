@@ -17,6 +17,7 @@ thumbnail: "images/english/sub-verb-agreement/noun-verb-agreement.png" # Sets th
 # codeMaxLines: 10 # Override global value for how many lines within a code block before auto-collapsing.
 # codeLineNumbers: false # Override global value for showing of line numbers within code block.
 # figurePositionShow: true # Override global value for showing the figure label.
+affiliatelink: english_affiliate
 ---
 
 इस लेख में हम अंग्रेजी के एक महत्त्वपूर्ण अध्याय के बारे में जानेंगे - <strong>Noun-Verb Agreement, in Hindi (हिंदी में)</strong>
